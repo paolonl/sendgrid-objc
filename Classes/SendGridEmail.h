@@ -8,8 +8,9 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h> 
-#import "SMTPAPI.h"
 #import "SendGridEmailAttachment.h"
+
+@class SMTPAPI;
 
 @interface SendGridEmail : NSObject
 

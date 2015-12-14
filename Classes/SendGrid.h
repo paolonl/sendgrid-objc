@@ -3,7 +3,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "AFNetworking.h"
 #import "SendGridEmail.h"
 #import "SendGridEmailAttachment.h"
 

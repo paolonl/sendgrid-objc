@@ -7,6 +7,7 @@
 //
 
 #import "SendGridEmail.h"
+#import "SMTPAPI.h"
 
 @implementation SendGridEmail
 
